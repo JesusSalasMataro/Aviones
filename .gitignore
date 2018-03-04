@@ -1,7 +1,2 @@
-bin
-*.txt
-*.pdf
-*.docx
-*.jpg
-*.ddd
+**/build
 
